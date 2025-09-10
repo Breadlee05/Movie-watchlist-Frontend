@@ -51,7 +51,8 @@ frontend/
 └── README.md
 Backend
 
-Author
-Breadlee
+
+👨‍💻 Author :
+P.Breadlee 
 GitHub: https://github.com/Breadlee05
 Portfolio: https://breadlee-portfolio.vercel.app/
