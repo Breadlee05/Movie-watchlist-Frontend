@@ -49,3 +49,9 @@ frontend/
 ├── public/ # Static files
 ├── package.json
 └── README.md
+Backend
+
+Author
+Breadlee
+GitHub: https://github.com/Breadlee05
+Portfolio: https://breadlee-portfolio.vercel.app/
