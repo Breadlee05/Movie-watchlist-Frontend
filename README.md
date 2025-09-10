@@ -8,6 +8,7 @@ This is the **frontend** of the Movie Watchlist application built with **React.j
 - View their saved watchlist
 
 The frontend communicates with a backend API (hosted separately) for authentication and watchlist management.
+Backend:https://github.com/Breadlee05/Movie-watchlist-Backend
 
 ---
 
