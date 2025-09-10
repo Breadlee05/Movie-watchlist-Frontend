@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Signup from "./components/Signup";
 import Login from "./components/login";
 import Watchlist from "./pages/watchlist";
-import "./app.css";
+import "./App.css";
 
 function App() {
   const [showLogin, setShowLogin] = useState(true);
